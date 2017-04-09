@@ -71,7 +71,7 @@
                                 <div class="tree" style="overflow:auto;">
                                     <ul>
                                         <li>
-                                            <a href="#">Reda JAALI.</a>
+                                            <a href="#">Reda JAALI</a>
                                             <ul>
                                                 <li>
                                                     <a href="#">BENSTITOU Anas</a>
