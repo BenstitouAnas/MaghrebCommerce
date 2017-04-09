@@ -71,7 +71,7 @@
                                 <div class="tree" style="overflow:auto;">
                                     <ul>
                                         <li>
-                                            <a href="#">JAALI Reda (Maghreb-SI)</a>
+                                            <a href="#">JAALI Reda</a>
                                             <ul>
                                                 <li>
                                                     <a href="#">BENSTITOU Anas</a>
