@@ -25,6 +25,8 @@ $(document).ready(function () {
         }, 50);
     });
 
+    
+
     // Close ibox function
     $('.close-link').click(function () {
         var content = $(this).closest('div.ibox');
@@ -32,13 +34,13 @@ $(document).ready(function () {
     });
 
     // Fullscreen ibox function
-    $('.fullscreen-link').click(function() {
+    $('.fullscreen-link').click(function () {
         var ibox = $(this).closest('div.ibox');
         var button = $(this).find('i');
         $('body').toggleClass('fullscreen-ibox-mode');
         button.toggleClass('fa-expand').toggleClass('fa-compress');
         ibox.toggleClass('fullscreen');
-        setTimeout(function() {
+        setTimeout(function () {
             $(window).trigger('resize');
         }, 100);
     });
