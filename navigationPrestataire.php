@@ -29,8 +29,8 @@
             <li>
                 <a href="#"><i class="fa fa-table"></i> <span class="nav-label">Produits</span><span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level collapse">
-                    <li><a href="#">Liste des Produits</a></li>
-                    <li><a href="#">Ajouter Produit</a></li>
+                    <li><a href="prestataire_produits.php">Liste des Produits</a></li>
+                    <li><a href="prestataire_produits_ajouter.php">Ajouter Produit</a></li>
                 </ul>
             </li>
 
