@@ -35,7 +35,7 @@
             </li>
 
             <li>
-                <a href="clients.php"><i class="fa fa-users"></i> <span class="nav-label">Clients </span></a>
+                <a href="commerciale_clients.php"><i class="fa fa-users"></i> <span class="nav-label">Clients </span></a>
             </li>
 
             <li>
