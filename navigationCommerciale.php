@@ -29,8 +29,8 @@
             <li>
                 <a href="#"><i class="fa fa-sitemap"></i> <span class="nav-label">Équipe </span><span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level collapse">
-                    <li><a href="#">Mon Équipe</a></li>
-                    <li><a href="#">Gérer les Rôles</a></li>
+                    <li><a href="commerciale_equipe.php">Mon Équipe</a></li>
+                    <li><a href="commerciale_equipe_role.php">Gérer les Rôles</a></li>
                 </ul>
             </li>
 
@@ -41,18 +41,18 @@
             <li>
                 <a href="#"><i class="fa fa-money"></i> <span class="nav-label">Solde </span><span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level collapse">
-                    <li><a href="#">Mon Solde</a></li>
-                    <li><a href="#">Historique</a></li>
-                    <li><a href="#">Demande Retrait</a></li>
+                    <li><a href="commerciale_solde.php">Mon Solde</a></li>
+                    <li><a href="commerciale_solde_historique.php">Historique</a></li>
+                    <li><a href="commerciale_solde_retrait.php">Demande Retrait</a></li>
                 </ul>
             </li>
 
             <li>
-                <a href="#"><i class="fa fa-table"></i> <span class="nav-label">Produits</span></a>
+                <a href="commerciale_produits.php"><i class="fa fa-table"></i> <span class="nav-label">Produits</span></a>
             </li>
 
             <li>
-                <a href="#"><i class="fa fa-ticket"></i> <span class="nav-label">Tickets</span> <span class="label label-warning pull-right">1/24</span></a>
+                <a href="commerciale_tickets.php"><i class="fa fa-ticket"></i> <span class="nav-label">Tickets</span> <span class="label label-warning pull-right">1/24</span></a>
             </li>
 
         </ul>
