@@ -62,6 +62,7 @@
                                     <th data-hide="all">Description</th>
                                     <th data-hide="phone">Montant</th>
                                     <th data-hide="phone,tablet">Quantité</th>
+                                    <th data-hide="phone,tablet">Commission</th>
                                     <th data-hide="phone,tablet">Client</th>
                                     <th data-hide="phone">Status</th>
                                 </tr>
@@ -85,6 +86,9 @@
                                     </td>
                                     <td>
                                         1000
+                                    </td>
+                                    <td>
+                                        $12.00
                                     </td>
                                     <td>
                                         Anas BENSTITOU
@@ -112,6 +116,9 @@
                                     <td>
                                         4300
                                     </td>
+                                    <td>
+                                        $4.30
+                                    </td>
                                     <td>Errouissi Mustapha</td>
                                     <td>
                                         <span class="label label-primary">Validé</span>
@@ -135,6 +142,10 @@
                                     </td>
                                     <td>
                                         7600
+                                    </td>
+
+                                    <td>
+                                        $3.75
                                     </td>
                                     <td>Reda JAALI</td>
                                     <td>
@@ -160,6 +171,9 @@
                                     </td>
                                     <td>
                                         7600
+                                    </td>
+                                    <td>
+                                        $7.52
                                     </td>
                                     <td>BAKKHOUCHA Abdel</td>
                                     <td>

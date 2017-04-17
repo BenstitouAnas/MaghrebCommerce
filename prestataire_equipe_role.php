@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Maghreb Commerce | Commerciale</title>
+    <title>Maghreb Commerce | Prestataire</title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.css" rel="stylesheet">
@@ -32,7 +32,7 @@
     <div id="wrapper">
 
     <!-- *********************************** Le menu de navigation ************************************* -->
-    <?php include('navigationCommerciale.php');
+    <?php include('navigationPrestataire.php');
 ?>
 
         <div id="page-wrapper" class="gray-bg">

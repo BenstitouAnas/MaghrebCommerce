@@ -58,8 +58,8 @@
             <li>
                 <a href="#"><i class="fa fa-sitemap"></i> <span class="nav-label">Équipe </span><span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level collapse">
-                    <li><a href="#">Mon Équipe</a></li>
-                    <li><a href="#">Gérer les Rôles</a></li>
+                    <li><a href="prestataire_equipe.php">Mon Équipe</a></li>
+                    <li><a href="prestataire_equipe_role">Gérer les Rôles</a></li>
                 </ul>
             </li>
 

@@ -27,11 +27,7 @@
             </li>
 
             <li>
-                <a href="#"><i class="fa fa-sitemap"></i> <span class="nav-label">Équipe </span><span class="fa arrow"></span></a>
-                <ul class="nav nav-second-level collapse">
-                    <li><a href="commerciale_equipe.php">Mon Équipe</a></li>
-                    <li><a href="commerciale_equipe_role.php">Gérer les Rôles</a></li>
-                </ul>
+                <a href="commerciale_equipe.php"><i class="fa fa-sitemap"></i> <span class="nav-label">Équipe </span></a>
             </li>
 
             <li>
